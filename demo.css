@@ -1,0 +1,201 @@
+html,body{
+    overflow-x: hidden;
+}
+.navbar{
+    margin: 0px;
+}
+.navbar .collapse{
+    justify-content: flex-end;
+}
+.abtus h1{
+    text-align: center;
+    padding-top: 20px;
+}
+#uppersec .navbar #navbarnav{
+    margin-right: 60px;
+}
+#uppersec{
+    height: 100vh;
+}
+#uppersec .header{
+    text-align: center;
+}
+#uppersec .header .black .info{
+    margin-top: 50px;
+}
+#uppersec .header .black .info h1{
+    line-height: 50px;
+}
+#uppersec .header .black .info .btnpart button{
+    background-color: #019806;
+    padding: 5px 30px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    margin-top: 20px;
+}
+#uppersec .header .slide{
+    position: absolute;
+    top: 0px;
+    z-index: -1111;
+}
+#uppersec .header .slide .carousel-inner{
+    height: 100vh;
+}
+#uppersec .navbar{
+    margin: 2% 5%;
+}
+#uppersec .header .slide ol li{
+        width: 10px;
+        height: 10px;
+        border-radius: 100%;
+      }
+#midsec .col-md-12{
+    text-align: center;
+}
+#midsec .d-flex .col-md-4{
+    text-align: center;
+}
+#midsec .d-flex .col-md-4 button{
+    background-color: transparent;
+    border: 1px solid #019806;
+    color: #019806;
+    padding: 5px 25px;
+    border-radius: 15px;
+}
+#midsec{
+    padding-bottom: 10%;
+}
+.picpart{
+    background-image: url("picpart.jpg");
+    max-width: 100%;
+}
+#midsec .picpart .col-md-12 .col-md-3{
+    background-color: white;
+    opacity:0.6;
+    padding: 50px;
+}
+#midsec .picpart .col-md-12{
+    display: flex;
+    justify-content: flex-end;
+}
+#midsec .d-flex{
+    overflow-wrap: anywhere;
+}
+#midsec .picpart{
+    margin-top: 10%;
+    padding: 50px;
+}
+.container .row .col-md-12{
+    text-align: center;
+}
+.container .row .row .col-sm-4 .card .card-body .foot img{
+    height: 20px;
+}
+.container .row .row .col-sm-4 .card .card-body .foot{
+    justify-content: space-between;
+}
+.container .row .col-md-12 p{
+    margin-bottom: 35px;
+}
+.container .row .row .col-sm-4 .card .card-body .foot p{
+    margin: auto;
+}
+.clientpart{
+    padding-bottom: 15%;
+}
+.pro{
+    background-color: #ECF1F5;
+
+}
+.pro .container .row .col-md-12 h1{
+    margin-top: 30px;
+}
+.propic .pics .left .sec{
+    margin-top: 7%;
+}
+.propic{
+    margin: 0px -30px;
+}
+.lstblog .col-md-12{
+    text-align: center;
+    margin-top: 30px;
+}
+.lstblog .container .row .col-md-4 .card .card-body{
+    text-align: center;
+}
+.lstblog .col-md-12 button{
+    background-color: transparent;
+    border: 5px solid #6DD66C;
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: #6DD66C;
+}
+.lstblog .container .row .col-md-12{
+    margin-top: 10%;
+}
+.lstblog{
+    background-color: #F7F7F7;
+    padding-bottom: 10%;
+}
+.lastbanner{
+    background-image: url("picpart.jpg");
+    width: 100%;
+    color: white;
+}
+.lastbanner .row .col-md-12{
+    text-align: center;
+}
+.lastbanner .row .col-md-12 button{
+    background-color: transparent;
+    border: 5px solid #019806;
+    color:white;
+    padding: 5px 25px;
+    border-radius: 15px;
+    outline: none;
+    margin-top: 30px;
+}
+.lastbanner .layer .row .col-md-12{
+    padding:10%;
+}
+.lastbanner .layer{
+    background-color: black;
+    opacity: 0.8;
+}
+.footer{
+    background-color: #333333;
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 5%;
+}
+.footer .container .row .cnt{
+    text-align: center;
+}
+.footer .container .row .mgt{
+    margin-top: 25px;
+}
+.footer .container .row .col-md-2 a{
+    text-decoration: none;
+    color: white;
+}
+.footer .container .row .cnt i{
+    padding: 5px;
+}
+.footer .container .row .col-md-4 button{
+    background-color: transparent;
+    border: 2px solid #019806;
+    color:white;
+    padding: 5px 25px;
+    border-radius: 15px;
+    outline: none;
+    margin-top: 10px;
+}
+.footer .container .row .col-md-4 button:hover{
+    background-color: #019806;
+    color: black;
+    transition: ease-in-out 0.2s;
+}
+.footer .container{
+    padding-bottom: 5%;
+    border-bottom: 1px solid grey;
+}
